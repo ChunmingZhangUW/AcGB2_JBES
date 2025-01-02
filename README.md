@@ -2,7 +2,9 @@
 
 README File for Demo Codes for S&P 100 Data
 
-Tables
+Data: Stored in Microsoft Excel documents, in CSV format.
+
+Tables:
 
 •	Table 3: Generated using the MATLAB code ‘maximaplots_sp100.m’. 
 
@@ -24,7 +26,7 @@ Tables
   - Note: Same considerations as for Table 8 regarding output variability. 
 
 
-Figures
+Figures:
 
 •	Figure 3: Run the MATLAB code ‘maximaplots_sp100.m’.
 

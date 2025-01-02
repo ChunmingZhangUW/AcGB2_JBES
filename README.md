@@ -3,6 +3,7 @@
 README File for Demo Codes for S&P 100 Data
 
 Tables
+
 •	Table 3: Generated using the MATLAB code ‘maximaplots_sp100.m’. 
 
 •	Table 4 and Table 6: 
@@ -23,6 +24,7 @@ Run the MATLAB code ‘Example02threedatasetsforecasting.m’.
 Note: Same considerations as for Table 8 regarding output variability. 
 
 Figures
+
 •	Figure 3: Run the MATLAB code ‘maximaplots_sp100.m’.
 
 •	Figure 5: Run the MATLAB code ‘recoveredplots_sp100.m’.

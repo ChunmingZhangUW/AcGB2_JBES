@@ -15,13 +15,13 @@ Tables
 
 •	Table 8: Run the MATLAB code ‘Example02threedatasetsfittingKSgof.m’. 
 	
- -- Note: This performs Monte Carlo tests. The output may vary slightly from the values in the paper due to differences in seed numbers or random number generators.
+  - Note: This performs Monte Carlo tests. The output may vary slightly from the values in the paper due to differences in seed numbers or random number generators.
 
 •	Table 9: Run the MATLAB code ‘recoveredplots_sp100.m’.
 
 •	Table 10: Run the MATLAB code ‘Example02threedatasetsforecasting.m’. 
 
- -- Note: Same considerations as for Table 8 regarding output variability. 
+  - Note: Same considerations as for Table 8 regarding output variability. 
 
 
 Figures

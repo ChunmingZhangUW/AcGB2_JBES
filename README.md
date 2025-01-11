@@ -1,6 +1,9 @@
 # Dynamic modeling via autoregressive conditional GB2 for cross-sectional maxima of financial time series data
 
-README File for Demo Codes for S&P 100 Data
+This README provides demo codes for analyzing S&P 100 data as presented in the paper:
+
+Fan, N., Zhang, C.M., and Zhang, Z.J. (2024). Dynamic modeling via autoregressive conditional GB2 for cross-sectional maxima of financial time series data. Journal of Business & Economic Statistics. [https://doi.org/10.1080/07350015.2025.2450488] 
+
 
 Data: Stored in Microsoft Excel documents, in CSV format.
 
